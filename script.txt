@@ -1,0 +1,3 @@
+#!/bin/bash
+wc -l permits.csv
+grep Hyde Park permits.csv > hydeparkpermits.csv
