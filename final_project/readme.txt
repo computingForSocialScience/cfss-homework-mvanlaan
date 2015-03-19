@@ -1,0 +1,4 @@
+ACS project
+1) I had some trouble adding more than one table to the database. As a result, I decided to use one table that compared multiple groups. This table (B10053) looks at the prevalence of multiple subgroups among native born grandparents and foreign born grandparents.
+2) I got the index page working with the drop down lists. For the compare page, I could not figure out how to join the columns being compared. The compare page prints out the state id and the tableid and columnid for the groups being compared.
+3) In mysql I realize the actual data for the groups is missing although the data is there. At one point, I had to drop the database because I had entered the information twice. As a result, there was double everything. I think the data may have been deleted during that time. Not realizing this had happened, analysing the data in the app makepagefinal.py was not possible.
